@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Shubhojit, a dedicated software developer with
 
 ## 📚 About Me
 
-- 🔭 **Currently working on:** Exciting web development projects and contributing to open-source.
+- 🔭 **Currently working on:** Exciting web development projects and hoping to contributing to open-source.
 - 🌱 **Learning:** Advanced JavaScript, React, and exploring the depths of AI.
 - 👯 **Looking to collaborate on:** Innovative projects that challenge my skills and knowledge.
 - 💬 **Ask me about:** JavaScript, Python, and any kind of Tech.
