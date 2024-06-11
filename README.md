@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Shubhojit, a dedicated software developer with
 ## 🛠️ Skills & Tools
 
 - **Languages:** JavaScript, Python, C/C++, HTML, CSS
-- **Frameworks:** Falsk, Django 
+- **Frameworks:** Flask, Django 
 - **Tools:** GitHub, VSCode, Docker
 
 ## 📊 GitHub Stats
