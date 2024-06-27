@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Shubhojit, a dedicated software developer with
 - 👯 **Looking to collaborate on:** Innovative projects that challenge my skills and knowledge.
 - 💬 **Ask me about:** JavaScript, Python, and any kind of Tech.
 - 📫 **How to reach me:** [kono_evilsturn on Instagram](https://instagram.com/kono_evilsturn) | [LinkedIn](https://www.linkedin.com/in/shubhojit-ghosh-571379291/)
-- 😄 **Pronouns:** He/Him
+
 
 ## 🛠️ Skills & Tools
 
