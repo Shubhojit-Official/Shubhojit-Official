@@ -81,14 +81,6 @@
 <img src="https://streak-stats.demolab.com?user=Shubhojit-Official&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhojit-Official&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhojit-Official&theme=radical&hide_border=true" width="100%" />
-</p>
-
 ---
 
 <div align="center">
